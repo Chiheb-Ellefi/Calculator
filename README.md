@@ -1,3 +1,5 @@
+Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
 # calculator
 
 A new Flutter project.
